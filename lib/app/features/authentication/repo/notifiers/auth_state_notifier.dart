@@ -18,7 +18,7 @@ final authStateProvider =
 });
 
 class AuthStateNotifier extends StateNotifier<AuthState> {
-  final _authenticator = const Authenticator();
+  final _authenticator = Authenticator();
   final _userInfoStorage = UserInfoStorage();
 
   AuthStateNotifier() : super(const AuthState.unknown()) {

@@ -1,7 +1,7 @@
-import 'package:chatcord/app/components/widgets/common_button.dart';
-import 'package:chatcord/app/components/widgets/common_text_field.dart';
-import 'package:chatcord/app/dialogs/alert_dialog_model.dart';
-import 'package:chatcord/app/dialogs/login_failure_dialog.dart';
+import 'package:chatcord/app/common/components/widgets/common_button.dart';
+import 'package:chatcord/app/common/components/widgets/common_text_field.dart';
+import 'package:chatcord/app/common/dialogs/alert_dialog_model.dart';
+import 'package:chatcord/app/common/dialogs/login_failure_dialog.dart';
 import 'package:chatcord/app/features/authentication/repo/notifiers/auth_state_notifier.dart';
 import 'package:chatcord/app/utils/app_colors.dart';
 import 'package:flutter/material.dart';

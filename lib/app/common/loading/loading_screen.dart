@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:chatcord/app/loading/loading_screen_controller.dart';
+import 'package:chatcord/app/common/loading/loading_screen_controller.dart';
 import 'package:chatcord/app/utils/app_colors.dart';
 import 'package:chatcord/app/utils/contants/strings.dart';
 import 'package:flutter/material.dart';
